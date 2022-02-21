@@ -28,4 +28,6 @@ To prepare your own TIF data, proceed as explained in the following steps:
   
   
 ### Training and Application
-For training and application use the provided scripts and make sure to adjust the data paths in the `models.GAN` accordingly.
+This pipeline was tested on Ubuntu 18 and 20 using python 3.7.
+A minimally required list of python packages and versions can be found in `requirements.txt`.
+For training and application use the provided `train_script.py` and `apply_script.py` and make sure to adjust the data paths in the `models.GAN` accordingly.
