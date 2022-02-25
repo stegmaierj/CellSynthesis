@@ -164,7 +164,7 @@ if __name__ == '__main__':
     parent_parser.add_argument(
         '--augmentations',
         type=str,
-        default=None,
+        default='augments_default.json',
         help='path to augmentation dict file'
     )
     
