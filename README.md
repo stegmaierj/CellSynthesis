@@ -1,7 +1,7 @@
 # CellSynthesis [![DOI](https://zenodo.org/badge/384055323.svg)](https://zenodo.org/badge/latestdoi/384055323)
 
-3D Fluorescence Microscopy Data Synthesis for Segmentation and Benchmarking\
-*Copyright (C) 2021 D. Eschweiler, M. Rethwisch, M. Jarchow, S. Koppers, J. Stegmaier*
+[3D Fluorescence Microscopy Data Synthesis for Segmentation and Benchmarking](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260509)\
+*D. Eschweiler, M. Rethwisch, M. Jarchow, S. Koppers, J. Stegmaier, PLoS ONE, 2021*
 
 
 This repository contains code used for our 3D cell simulation and synthesis pipeline. We are actively working on improving synthetic data quality, computation performance and user-friendliness.
